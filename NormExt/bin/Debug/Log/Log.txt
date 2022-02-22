@@ -1,0 +1,158 @@
+
+---------------------------------------------------
+14-05-2021 01:59:47 AM
+The statement has been terminated.
+Violation of PRIMARY KEY constraint 'PK__ASWFSTEP__2703F57392FB54B6'. Cannot insert duplicate key in object 'dbo.ASWFSTEP'. The duplicate key value is (UUID).
+---------------------------------------------------
+14-05-2021 21:15:19 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+14-05-2021 21:15:57 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+14-05-2021 21:16:02 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+15-05-2021 12:50:46 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+15-05-2021 12:50:46 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 14:04:03 PM
+Cannot open database "PSA66_EXT" requested by the login. The login failed.
+---------------------------------------------------
+05-08-2021 14:05:50 PM
+Cannot open database "PSA66_EXT" requested by the login. The login failed.
+---------------------------------------------------
+05-08-2021 14:06:44 PM
+Cannot open database "PSA66_EXT" requested by the login. The login failed.
+---------------------------------------------------
+05-08-2021 14:42:52 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 14:42:52 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 14:53:47 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 14:53:47 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:09:08 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:09:08 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:11:32 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:11:32 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:14:12 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:14:12 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:16:47 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:16:47 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:16:50 PM
+Operator '+' is not defined for string "ATSHIFTGRPE_GRPCODE IN(" and type 'DataTable'.
+---------------------------------------------------
+05-08-2021 15:22:32 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:22:32 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:24:26 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:24:26 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:28:36 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:28:36 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:31:56 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:31:57 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:32:12 PM
+Incorrect syntax near ')'.
+---------------------------------------------------
+05-08-2021 15:35:04 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:35:05 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:37:17 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:37:18 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:44:12 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:44:12 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:45:21 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:45:21 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:50:31 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:50:32 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:55:34 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:55:34 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:56:27 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 15:56:28 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 16:06:46 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 16:06:46 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 16:06:57 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+05-08-2021 16:06:57 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+06-08-2021 12:00:11 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+06-08-2021 12:00:12 PM
+Object reference not set to an instance of an object.
+---------------------------------------------------
+17-01-2022 10:59:36 AM
+There is no row at position 0.
